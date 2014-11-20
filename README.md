@@ -1,12 +1,12 @@
 #Git and Githup
 
 ###Git is the program that allow to push your code to this website called Githup it also allow you to take other people codes into your computer.this way you can share your code with others.
-####
+
 ...
-$ Repository is a folder
-$ how to make a Repository
-$ cd ..
-$ mkdir foldername
+$ Repository is a folder.
+$ how to make a Repository.
+$ cd ...
+$ mkdir foldername.
 $ ls - empty
 $ cd foldername
 $ ls- empty
