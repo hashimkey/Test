@@ -4,8 +4,8 @@
 
 ...
 $ Repository is a folder.
-$ how to make a Repository.
-$ cd ...
+$ how to make a Repository
+$ cd ..
 $ mkdir foldername.
 $ ls - empty
 $ cd foldername
