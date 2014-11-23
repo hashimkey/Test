@@ -3,7 +3,7 @@
 ###Git is the program that allow to push your code to this website called Githup it also allow you to take other people codes into your computer.this way you can share your code with others.
 
 ...
-$ Repository is a folder.
+$ Repository is a folder. 
 $ how to make a Repository
 $ cd ..
 $ mkdir foldername.
@@ -31,14 +31,20 @@ $ git push -u origin master
 ...
 ###local computer----staging---remote###(https://github.com/hashim2/FristRepository.git)
 
-
-
 ###...
 ###when adding your repository online with changes
 
-$ git add
+$ git add .
 $ git commit -m "we have changed something"
 $ git push
 
-### working together from perspective of some who does not have main repo
-####for repo you want to work with
+###when deleting something
+$ git add -u // when you have deleting a local file that u want to remove from your repository
+$ git commit -m "the file you want to delete"
+$ git push
+
+###working together from perspective of someone that doesnt have the main repo
+...
+sh
+### fork repo you want to work on
+$ git clone https://github.com/thenewusername/hisrepository.git
