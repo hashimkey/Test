@@ -31,9 +31,14 @@ $ git push -u origin master
 ...
 ###local computer----staging---remote###(https://github.com/hashim2/FristRepository.git)
 
+
+
 ###...
 ###when adding your repository online with changes
 
 $ git add
 $ git commit -m "we have changed something"
 $ git push
+
+### working together from perspective of some who does not have main repo
+for repo you want to work with
